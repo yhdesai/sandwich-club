@@ -12,6 +12,8 @@
 
     <!-- Error messages-->
     <string name="detail_error_message">Sandwich data not available</string>
+    <string name="name_label">Name:</string>
+    <string name="originated_from_label">Originated from:</string>
 
     <string-array name="sandwich_names">
         <item>Ham and cheese sandwich</item>
@@ -25,6 +27,14 @@
         <item>Shawarma</item>
         <item>Vada Pav</item>
     </string-array>
+
+
+    main name
+    also known as
+    place of origin
+    image
+    ingredients
+    description
 
     <string-array name="sandwich_details">
         <item>{\"name\":{\"mainName\":\"Ham and cheese
